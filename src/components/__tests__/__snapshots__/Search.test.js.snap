@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search should match last snapshot 1`] = `
+<div>
+  <h1>
+    Search for Game
+  </h1>
+  <form
+    onSubmit={[Function]}
+  >
+    <input
+      id="game"
+      name="game"
+      onChange={[Function]}
+      placeholder="Enter a game"
+      type="text"
+      value=""
+    />
+    <button
+      type="submit"
+    >
+      Search for Games
+    </button>
+  </form>
+  
+  <ul />
+</div>
+`;
